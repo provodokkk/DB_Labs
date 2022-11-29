@@ -1,0 +1,12 @@
++------------------------------+
+| Select operation:            |
++------------------------------+
+|   1: Show table              |
+|   2: Show all tables         |
+|   3: Add data                |
+|   4: Update data             |
+|   5: Delete data             |
+|   6: Add random packed data  |
+|   7: Search                  |
+|   8: Exit the program        |
++------------------------------+
